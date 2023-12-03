@@ -1,4 +1,4 @@
-# Comparative Analysis of Advanced Machine Learning Models for Real Estate Price Prediction
+# PropPrice Insight: Advanced ML Models for Real Estate Price Prediction 
 
 This repository contains the project `Comparative Analysis of Advanced Machine Learning Models for Real Estate Price Prediction on the H4M Dataset`. The goal of this project is to utilize various advanced machine learning models to predict real estate prices accurately, based on the H4M dataset.
 
